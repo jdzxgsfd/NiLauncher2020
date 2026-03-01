@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-ko/20.0/offline/ni-software-platform-bundle-x86-ko_20.0.0.49153-0+f1_offline.iso 
-ni-software-platform-bundle-x86-ko_20.0.0.49153-0+f1_offline.iso
-bb00a1193c77baff8d390a3cc1a962df
-20.0.0.49153.x86.ko-KR
-Software Platform Bundle 2020 Q2 32bit Korean
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-zh-cn/20.0/offline/ni-software-platform-bundle-x86-zh-cn_20.0.0.49153-0+f1_offline.iso 
+ni-software-platform-bundle-x86-zh-cn_20.0.0.49153-0+f1_offline.iso
+350b5ba3c9cc5069cae29fcf9490d4f8
+20.0.0.49153.x86.zh-CN
+Software Platform Bundle 2020 Q2 32bit Simplified Chinese
 NI.SPB
