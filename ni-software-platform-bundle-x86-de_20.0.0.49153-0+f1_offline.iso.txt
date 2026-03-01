@@ -1,0 +1,6 @@
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-de/20.0/offline/ni-software-platform-bundle-x86-de_20.0.0.49153-0+f1_offline.iso 
+ni-software-platform-bundle-x86-de_20.0.0.49153-0+f1_offline.iso
+0d0c8d8e59c1f9e61d4e4b4ad600a908
+20.0.0.49153.x86.de-DE
+Software Platform Bundle 2020 Q2 32bit German
+NI.SPB
